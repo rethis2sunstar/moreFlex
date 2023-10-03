@@ -13,7 +13,6 @@ header {
   display: flex;
   justify-content: center;
   gap: 10px;
-  flex-wrap: wrap;
 }
 .card img {
   width: 300px;
